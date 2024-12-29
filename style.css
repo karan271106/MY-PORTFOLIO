@@ -73,7 +73,14 @@ nav ul li a:hover::after{
 .header-text h1 span{
     color: #16eedcf1;
 }
-
+.logo{
+color:#fffcfc
+font-size: 35px;
+font-family: ariel;
+padding-left:20px;
+float: left;
+padding-top:10px;
+}
 main {
     padding: 20px;
 }
